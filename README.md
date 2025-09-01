@@ -62,10 +62,6 @@ Başarılı çalıştırıldığında **karanlık temalı** bir kontrol paneli a
 
 ---
 
-## 📸 Ekran Görüntüsü (Opsiyonel)
-
-Buraya panelin ekran görüntüsünü ekleyebilirsiniz.
-
 ---
 
 ## ⚠️ Uyarılar
