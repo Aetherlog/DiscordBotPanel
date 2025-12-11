@@ -78,4 +78,5 @@ Başarılı çalıştırıldığında **karanlık temalı** bir kontrol paneli a
 
 ## 📜 Lisans
 
-Bu proje kişisel kullanım için tasarlanmıştır.
+# MIT License
+# Copyright (c) 2025 Aetherlog
