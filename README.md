@@ -34,6 +34,10 @@ Bot; sunucu ve DM mesajlarını görüntüleyebilir, mesaj gönderebilir, hata l
 ```bash
 pip install nextcord PyQt5 python-dotenv google-generativeai
 ```
+Yapa bilir ve ya requirements.txt kullana bilirsiniz:
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
